@@ -1,0 +1,24 @@
+{
+  "name": "ssr-learn",
+  "version": "1.0.0",
+  "description": "ssr服务端渲染学习",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nuxt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmotionBin/ssr-learn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmotionBin/ssr-learn/issues"
+  },
+  "homepage": "https://github.com/EmotionBin/ssr-learn#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "nuxt": "^2.14.12"
+  }
+}
