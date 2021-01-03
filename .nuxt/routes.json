@@ -6,38 +6,46 @@
       {
         "path": "",
         "name": "home",
-        "component": "D:\\\\TestProjects\\\\ssr-learn\\\\pages\\\\home"
+        "component": "D:\\\\TestProjects\\\\ssr-learn\\\\pages\\\\home",
+        "_name": "_6beda9b2"
       },
       {
         "path": "/login",
         "name": "login",
-        "component": "D:\\\\TestProjects\\\\ssr-learn\\\\pages\\\\login"
+        "component": "D:\\\\TestProjects\\\\ssr-learn\\\\pages\\\\login",
+        "_name": "_11ffd4f6"
       },
       {
         "path": "/register",
         "name": "register",
-        "component": "D:\\\\TestProjects\\\\ssr-learn\\\\pages\\\\login"
+        "component": "D:\\\\TestProjects\\\\ssr-learn\\\\pages\\\\login",
+        "_name": "_11ffd4f6"
       },
       {
         "path": "/profile/:username",
         "name": "profile",
-        "component": "D:\\\\TestProjects\\\\ssr-learn\\\\pages\\\\profile"
+        "component": "D:\\\\TestProjects\\\\ssr-learn\\\\pages\\\\profile",
+        "_name": "_6a853ff6"
       },
       {
         "path": "/settings",
         "name": "settings",
-        "component": "D:\\\\TestProjects\\\\ssr-learn\\\\pages\\\\settings"
+        "component": "D:\\\\TestProjects\\\\ssr-learn\\\\pages\\\\settings",
+        "_name": "_7762cf76"
       },
       {
         "path": "/editor",
         "name": "editor",
-        "component": "D:\\\\TestProjects\\\\ssr-learn\\\\pages\\\\editor"
+        "component": "D:\\\\TestProjects\\\\ssr-learn\\\\pages\\\\editor",
+        "_name": "_216eed80"
       },
       {
         "path": "/article/:slug",
         "name": "article",
-        "component": "D:\\\\TestProjects\\\\ssr-learn\\\\pages\\\\article"
+        "component": "D:\\\\TestProjects\\\\ssr-learn\\\\pages\\\\article",
+        "_name": "_514f8343"
       }
-    ]
+    ],
+    "_name": "_2d3dc73d"
   }
 ]
